@@ -28,7 +28,7 @@ public class Student {
         this.age = age;
     }
 
-    public void show(){
-        System.out.println(this.name+"..."+this.age);
+    public void show () {
+        System.out.println(this.name + "..." + this.age);
     }
 }

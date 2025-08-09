@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-info-manager/edu-info-manager.iml" filepath="$PROJECT_DIR$/edu-info-manager/edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extend-case/extend-case.iml" filepath="$PROJECT_DIR$/extend-case/extend-case.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima-api-string.iml" filepath="$PROJECT_DIR$/itheima-api-string.iml" />
     </modules>
   </component>
